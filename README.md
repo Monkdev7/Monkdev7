@@ -88,86 +88,6 @@ philosophy: "Ship it. Learn from it. Do it better."
 
 ---
 
-## `> ls -la ./projects`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Draftly — Enterprise Content AI
-`Next.js 16` `FastAPI` `CrewAI` `PostgreSQL` `Gemini`
-
-Multi-agent platform automating policy-aware marketing content generation. Built with real-time SSE streaming + AES-based Fernet encryption for API key security.
-
-**Highlights:**
-- Multi-agent CrewAI orchestration
-- Real-time streaming via Server-Sent Events
-- AES Fernet encrypted key vault
-- ET Hackathon 2026 — **Top 100 nationwide**
-
-[![Live](https://img.shields.io/badge/🚀_Live_Demo-000?style=flat-square)](https://draftly-ai.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🎙️ VoxGuard AI — Deepfake Speech Detector
-`Python` `PyTorch` `SE-ResNet` `Librosa` `Audio DSP`
-
-Detects synthetic speech across **5 languages** using a custom SE-ResNet architecture with sliding-window inference + temperature scaling.
-
-**Highlights:**
-- SE-ResNet model trained from scratch
-- Sliding-window inference on audio chunks
-- Temperature-calibrated confidence scores
-- 5-language multilingual support
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Monkdev7)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 DataGuardian — Privacy Extension
-`JavaScript` `Chromium APIs` `CSP Analysis` `SSL`
-
-Chromium browser extension with real-time dashboard to autonomously detect + block third-party trackers, with CSP analysis and SSL validation baked in.
-
-**Highlights:**
-- Real-time tracker blocking
-- Content Security Policy analysis
-- SSL/TLS certificate validation
-- Zero external dependencies
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Monkdev7)
-
-</td>
-<td width="50%">
-
-### 📊 RepoLens — GitHub Analyzer
-`Next.js` `React` `Node.js` `Google Gemini API`
-
-Full-stack GitHub repository evaluator using deterministic engineering metrics + Gemini AI for actionable improvement roadmaps. Parallel API orchestration under the hood.
-
-**Highlights:**
-- Parallel GitHub API orchestration
-- AI-enhanced code analysis
-- Deterministic engineering metrics
-- Actionable improvement roadmaps
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Monkdev7)
-
-</td>
-</tr>
-</table>
-
----
----
-
-</div>
-
----
-
 ## `> neofetch --stats`
 
 <div align="center">
@@ -186,8 +106,7 @@ Full-stack GitHub repository evaluator using deterministic engineering metrics +
 ---
 
 Actively building. Always learning. Ready to ship.
-```
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Monkdev7/Monkdev7/output/github-contribution-grid-snake-dark.svg)
 
 </div>
